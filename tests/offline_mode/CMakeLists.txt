@@ -1,3 +1,4 @@
 add_oscap_test("test_offline_mode_system_info.sh")
 add_oscap_test("test_offline_mode_textfilecontent54.sh")
 add_oscap_test("test_offline_mode_symlink.sh")
+add_oscap_test("test_offline_mode_symlink_2.sh")

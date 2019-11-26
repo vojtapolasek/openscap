@@ -18,8 +18,8 @@ cat <<EOF
         </affected>
       </metadata>
       <criteria>
-          <criterion test_ref="oval:x:tst:1" comment="always pass"/>
-          <!--<criterion test_ref="oval:x:tst:2" comment="always pass"/>-->
+          <!--<criterion test_ref="oval:x:tst:1" comment="always pass"/>
+          <criterion test_ref="oval:x:tst:2" comment="always pass"/>-->
           <criterion test_ref="oval:x:tst:3" comment="always pass"/>
           <criterion test_ref="oval:x:tst:4" comment="always pass"/>
           <criterion test_ref="oval:x:tst:5" comment="always pass"/>
